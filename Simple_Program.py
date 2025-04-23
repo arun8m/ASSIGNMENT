@@ -4,3 +4,7 @@ print('Addition: ',int(a) + int (b))
 print('Subtraction: ',int(a) - int (b))
 print('Multiplication: ',int(a) * int (b))
 print('Division: ',int(a) / int (b))
+
+c=input('Enter your First Name')
+d=input('Enter your Last name')
+print('Hello, '+ c +" "+ d + '! Welcome to the Python program')
